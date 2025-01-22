@@ -54,7 +54,7 @@ const Footer = () => {
 
         {/* Footer Bottom */}
         <div className="text-center mt-8 text-sm">
-          <p>&copy; 2025 Your Company Name. All Rights Reserved.</p>
+          <p>&copy; 2025 PhoneShop. All Rights Reserved.</p>
         </div>
       </div>
     </footer>
